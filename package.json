@@ -1,0 +1,14 @@
+{
+  "name": "pi-powershell-native",
+  "version": "1.0.0",
+  "description": "Native PowerShell tool for pi on Windows",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karutoil/pi-powershell-native.git"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
